@@ -11,7 +11,7 @@ Computer Engineering Student | Passionate about Programming, Python Enthusiast |
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JatinKanyal28&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinKanyal28&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 ---
