@@ -2,7 +2,7 @@
 Computer Engineering Student | Passionate about Programming, Python Enthusiast | Exploring Cybersecurity, Cloud, Machine Learning, and Data Science<br>🌱 I’m currently learning Python Data Science, MERN Stack<br>💬 Ask me about anything related to PC hardware, mobile operating systems, device comparisons, software optimizations, or Gaming.<br>⚡ I find joy in both playing the guitar and singing, allowing me to express myself creatively through music. 
 
 
-## 🌐 Socials:
+## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinkanyal28/) 
 
 # 💻 Tech Stack:
